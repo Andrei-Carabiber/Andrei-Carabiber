@@ -33,8 +33,8 @@ I am a Computer Science student at **USI Università della Svizzera italiana**. 
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrei-Carabiber&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6" alt="Andrei's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Carabiber&layout=compact&theme=transparent&hide_border=true&title_color=3178C6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Andrei-Carabiber&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6" alt="Andrei's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Andrei-Carabiber&layout=compact&theme=transparent&hide_border=true&title_color=3178C6" alt="Top Languages" width="48%" />
 </p>
 
 <!-- 
