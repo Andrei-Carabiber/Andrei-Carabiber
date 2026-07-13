@@ -7,7 +7,7 @@
 
 I am a Computer Science student at **USI Università della Svizzera italiana**. I'm passionate about building scalable web applications, exploring modern full-stack architectures, and solving complex technical challenges.
 
-🚀 **Founder & Developer of [Euro Tracker](https://euro-tracker.vercel.app/)** — A SaaS platform designed to streamline the job hunt, optimize application management, and help developers land interviews.
+🚀 **Founder & Developer of [Euro Tracker](https://euro-tracker.vercel.app/)** — A SaaS platform designed to streamline the job hunt, optimize CVs for specific jobs and help people land interviews.
 
 ---
 
