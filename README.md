@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/Location-Lugano,_Switzerland-red?style=flat-square" alt="Location">
 </p>
 
-I am a Computer Science student at **USI Università della Svizzera italiana**. I'm passionate about building scalable, impactful web applications, exploring modern full-stack architectures, and solving complex problems.
+I am a Computer Science student at **USI Università della Svizzera italiana**. I'm passionate about building scalable web applications, exploring modern full-stack architectures, and solving complex technical challenges.
+
+🚀 **Founder & Developer of [Euro Tracker](https://euro-tracker.vercel.app/)** — A SaaS platform designed to streamline the job hunt, optimize application management, and help developers land interviews.
 
 ---
 
@@ -35,7 +37,3 @@ I am a Computer Science student at **USI Università della Svizzera italiana**. 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Andrei-Carabiber&layout=compact&theme=transparent&hide_border=true&title_color=3178C6" alt="Top Languages" width="45%" />
 </p>
-
-<!-- 
-💡 Note: Make sure to replace BOTH instances of `YOUR_GITHUB_USERNAME_HERE` in the stats links above with your actual GitHub username!
--->
