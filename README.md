@@ -13,7 +13,7 @@ I am a Computer Science student at **USI Università della Svizzera italiana**. 
 
 ### 🚀 What I'm Up To
 
-- **🔭 Current Focus:** Developing the **PBKAT Visualizer**, an interactive interface for Quantum Networks Tools.
+- **🔭 Current Focus:** Developing the **<a href="https://github.com/Andrei-Carabiber/PBKAT-Visualizer">PBKAT Visualizer</a>**, an interactive interface for Quantum Networks Tools.
 - **🌱 Learning & Refining:** Deepening my expertise in **React** ecosystem patterns and **Django** backend architecture.
 - **👯 Collaboration:** Always open to teaming up for **hackathons**, open-source contributions, or challenging side projects.
 
